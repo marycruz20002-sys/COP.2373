@@ -1,0 +1,15 @@
+# Technical Design Document: MalachiCruz_ProgrammingExercise_7
+
+# Name: Malachi Cruz
+# Date: March 17, 2026
+# Program Description: Sentence Counter
+
+## Function: main
+None
+
+## Function: split_into_sentences
+Splits a paragraph into a list of sentences using regex.
+Handles various sentence end cases, including sentences that
+begin with numbers.
+
+#Link to your repository: https://github.com/marycruz20002-sys/COP.2373
